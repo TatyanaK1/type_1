@@ -18,7 +18,7 @@ pandas, numpy, xgboost, sklearn, seaborn, matplotlib, etna
 Power BI, Power Query
 
 ## 3. Разработка модели машинного обучения для предсказания прохождения студентами онлайн курса
-  [прогноз прохождения курса](https://github.com/TatyanaK1/type_1/blob/main/успешное%20завершение%20онлайн%20курса.ipynb). 
+  [прогноз прохождения курса](https://github.com/TatyanaK1/type_1/blob/main/students_activity.ipynb). 
  
 ### Описание
 Анализ причин оттока пользователей онлайн курса по данным об их активности: дата, количество пройденных шагов, количество попыток на каждом шаге.
